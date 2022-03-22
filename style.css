@@ -1,0 +1,11 @@
+table, th, td {
+    border-style: outset;
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+  body {
+    background-image: url(https://cdn.glitch.global/aa3b72ae-c18d-4e5b-81a4-66c91f212e38/cl-web_0.png?v=1647940325984);
+    background-repeat: no-repeat;
+      background-attachment: fixed;
+      background-size: cover;
+  }
